@@ -1,0 +1,16 @@
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/icudtl.dat
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/flutter_windows.dll
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/borobudur.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/kalasan.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/mendut.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/muaratakus.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/prambanan.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/sewu.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/assets/tikus.jpg
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Fluttertest/pbm_widget/pbm_widget_list/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
